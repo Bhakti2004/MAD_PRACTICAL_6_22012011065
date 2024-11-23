@@ -20,5 +20,4 @@ A simple Android app to help users manage their grocery list. The app allows use
   - LinearLayout for dynamic list generation
   
 ## Installation
-```bash
-   git clone https://github.com/Bhakti2004/MAD_PRACTICAL_6_22012011065
+https://github.com/Bhakti2004/MAD_PRACTICAL_6_22012011065
